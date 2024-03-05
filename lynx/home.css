@@ -169,4 +169,8 @@ input:hover {
     section input {
         width: 70%;
     }
+
+    nav a {
+        font-size: medium;
+    }
 }
