@@ -18,10 +18,11 @@ header {
     flex-direction: column;
 
     width: 100%;
-    height: 15%;
+    height: 19%;
 
     background-color: black;
     z-index: 999;
+
 }
 
 nav {
@@ -52,7 +53,7 @@ button img {
 nav a {
     display: flex;
     justify-content: center;
-    font-size: 25px;
+    font-size: 1.5rem;
     text-decoration: none;
 
     height: 100%;
@@ -110,6 +111,7 @@ section input {
     background-color: black;
     padding: 5px;
     margin: 5px;
+    width: 70%;
 }
 
 h1 {
@@ -167,9 +169,6 @@ input:hover {
         margin-bottom: 10px;
     }
 
-    section input {
-        width: 70%;
-    }
 
     nav a {
         font-size: small;
